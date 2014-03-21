@@ -1,5 +1,5 @@
 BOM - Bill of Materials:
-=============
+========================
 
 Übersicht über die verwendeten Materialien:
 Preis etwa 15 €
