@@ -1,7 +1,7 @@
 OdroidCase
 ==========
 
-A case for the [Odroid XU] (http://www.hardkernel.com/main/products/prdt_info.php?g_code=G137510300620) (acrylic)
+A acrylic case for the [Odroid XU] (http://www.hardkernel.com/main/products/prdt_info.php?g_code=G137510300620)
 
 This project contains two drawings (in different file types) for one box. You can use two different colours like me or you can be creative and change these models.
 
@@ -10,9 +10,9 @@ Preview
 
 ![OdroidCase](images/OdroidCase.jpg)
 
-![OdroidCase-Side](images/side.jpg)
+![OdroidCase-back](images/back.jpg)
 
-![OdroidCase-Top](images/top.jpg)
+![OdroidCase-top](images/top.jpg)
 
 [BOM](BOM.md)
 -------------
@@ -22,9 +22,11 @@ Bill of materials.
 Build Instructions
 ------------------
 
- - lasercut the [part A](odroidCaseA.svg) and [part B](odroidCaseB.svg) on two plates (e.g. with [VisiCut](https://github.com/t-oster/VisiCut), then you can use the [VisiCut lasersettings](https://github.com/fau-fablab/visicut-settings):
-    red:    cut
-    (green: mark)
+ - lasercut the [part A](odroidCaseA.svg) and [part B](odroidCaseB.svg) on two plates (e.g. with [VisiCut](https://github.com/t-oster/VisiCut), then you can use the [VisiCut laser settings](https://github.com/fau-fablab/visicut-settings):
+
+     red:    cut
+     (green: mark)
+
  - if you use countersunk screws, then drill countersinks
  - screw the four bottom screws into the large spacers and put them through the 3 lower plates
  - screw the small spacers on the ground plate and screw the Odroid on top of them
@@ -32,7 +34,7 @@ Build Instructions
  - put the top plate on the others and screw the last four screws into the spa spacers through the top
  - stick the case-feet on the marked circles on the bottom 
 
-![OdroidCaseDrawing](OdroidCaseDrawing.png)
+![OdroidCaseDrawing](images/OdroidCaseDrawing.png)
  
 License
 -------

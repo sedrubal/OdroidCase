@@ -14,4 +14,4 @@ It kosts about 15€-20€
  -----
  
   - Lasercutter
-  - screwdriver
+  - Screwdriver
